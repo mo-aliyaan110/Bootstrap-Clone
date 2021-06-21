@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.bsimage{
+    width: 60px;
+    height: 55px;
+}
+.bracketsimg{
+    width: 45px;
+    height: 45px;
+    
+}
+.letterspace{
+    letter-spacing: 3.5px;
+}
